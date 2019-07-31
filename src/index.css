@@ -11,3 +11,362 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.Div1{
+  background-color: #f6f5f5;
+  height: 65px;
+  padding-top: 15px;  
+}
+
+
+#left-part2{
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 5px;
+}
+
+#right-part2{
+  text-align: right;
+  margin-right: 50px;
+  margin-top: -35px;
+}
+
+#left-part
+{
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+#right-part{
+  text-align: right;
+  margin-right: 40px;
+  margin-top: -35px;
+}
+
+.text1 {
+  color: #ea543b;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  margin: 10px;
+  font-size: 22px;
+ }
+ 
+.text2 {
+  font-weight: 500;
+  margin: 10px;
+}
+
+.text3{
+  color:#909090;
+  margin: 10px;
+}
+
+.text4{
+  color:#909090;
+  margin: 10px;
+}
+
+.text5{
+  color:#909090;
+  margin: 10px;
+}
+
+.text6{
+  color: #454548;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+
+.saveEx{  
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;;
+  border-radius: 10px;
+  background-color: #f6f5f5;
+}
+
+p>button:hover{
+  background-color: rgb(197, 197, 197);
+}
+
+.punct1{
+  height: 5px;
+  width: 5px;
+  background-color: rgb(247, 0, 0);
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: -13px;
+  margin-bottom: 10px;
+}
+
+.firstSteps{
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  width: 50%;
+  text-align: center;
+  height: auto;
+}
+
+.secondStep{
+  text-align: left;
+  display: block;
+  margin-left: 30px;
+  margin-bottom: 20px
+  
+}
+
+.p1{
+  font-weight: bold;
+
+}
+
+.p2{  
+  font-size: 30px;
+  margin: 2px;
+  font-weight: bolder;  
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.centerBox   {
+  margin: auto;
+  width: 50%;
+  border: 1px solid rgba(131, 130, 130, 0.658);
+  border-radius: 10px;
+  align-content: flex-start;
+  text-align: center;
+  height: auto;
+}
+
+.centerBox2 {
+  text-align: left;
+  display: block;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+.centerBox3 {
+  text-align: right;
+  display: block;
+  margin-right: 40px;
+  margin-bottom: 20px;
+}
+
+#numeAplicant{
+  font-weight: 450;
+  font-size: 20px;
+}
+.aplicant{
+  float: left;
+  align-content: left;
+  margin: 10px;
+  display: inline-block; 
+}
+
+#questTitle
+{
+  font-weight: bold;
+  display: inline-block; 
+}
+
+#answer
+{
+  text-align: left;
+  margin-top: -5px;
+}
+
+.inputTip1 {
+  width: 100px;
+  float: right;
+  display: inline-block;
+  margin-right: 30px;
+  margin-top: 20px;
+  padding: 12px 12px;
+  border: 2px solid rgba(165, 165, 165, 0.514);
+  border-radius: 5px;
+}
+
+.centerBox2 > span {
+
+  display: inline-block;
+  margin-right: 100px;
+  margin-top: 20px;
+  float: right;
+  font-weight: bold;
+}
+
+#SocialHub{
+  font-size: 10px;
+  font-weight: bold;
+  display: block; 
+  margin: 2px;
+}
+
+.inputTip2 {
+  width: 300px;
+  padding: 12px 12px;
+  border: 2px solid rgba(165, 165, 165, 0.514);
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 10px;
+  
+}
+
+.inputTip3 {
+  width: 300px;
+  padding: 12px 12px;
+  border: 2px solid rgba(165, 165, 165, 0.514);
+  border-radius: 5px;
+  display: inline-block;
+  margin-right: 30px;
+  margin-top: 10px;
+  float: right;
+  
+}
+
+.divtip3 {
+  margin-left: 30px;
+  margin-top: 10px;
+  color: rgb(168, 168, 168); 
+
+}
+
+.btn1{
+  border: none;
+  background-color: inherit;
+  font-size: 15px;
+  cursor: pointer;
+  color: red;
+}
+.btn1:hover{
+  background: #eee;
+}
+
+
+.btn2{
+  border: none;
+  border-radius: 10px;
+  background-color: inherit;
+  font-size: 10px;
+  cursor: pointer;
+  color:black;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 20px;
+}
+.btn2:hover{
+  background: #eee;
+}
+
+
+.btn3{
+  border:none;
+  border-radius: 10px;
+  font-size: 10px;
+  cursor: pointer;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(255, 78, 107);
+
+}
+.btn3:hover{
+  background: rgb(250, 37, 37);
+}
+
+
+.div2 {
+  display: block;
+}
+
+.check{
+  padding-left:5px;
+  padding-right:5px;
+  border-radius:15px;
+
+  width:15px;
+  height:15px;  
+}
+
+span>input:checked{
+  box-shadow: 20px 20px 50px 10px rgb(255, 97, 124)  
+}
+
+
+#span1{
+  padding: 10px;
+  margin: 10px;
+  display: block;
+
+}
+
+
+.submitButton{
+  align: right;
+  float: right;
+  margin-right: 50px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+
+  border:none;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 75px;
+  padding-right: 75px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(163, 163, 163);
+  display: inline-block;
+}
+
+.submitButton:hover{
+  background-color: rgb(255, 78, 107);
+}
+
+.backButton{
+  align: left;
+  float: left;
+  margin-right: 50px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+
+  border:none;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 75px;
+  padding-right: 75px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  display: inline-block;
+
+}
+
+.backButton:hover{
+  background-color: #909090;
+}
+
+.divMare{
+
+  display: flex;
+  flex-direction:row;
+}
+.div3 {
+    flex: 1 1 0px;
+  
+}
+
+.parentDiv{
+  display: flex;
+}
